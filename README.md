@@ -28,7 +28,7 @@
   <img align="center" alt="Thalyson-CSS" height="20" width="20" src="https://api.iconify.design/logos-jest.svg">
   <img align="center" alt="Thalyson-CSS" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png">
   <img align="center" alt="Thalyson-CSS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  
+  <img align="center" alt="Thalyson-CSS" height="30" width="30" src="https://graphql.org/img/logo.svg">
 
 </div>
  
